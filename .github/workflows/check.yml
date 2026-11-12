@@ -1,0 +1,19 @@
+name: check
+
+# Every change keeps the guides sound: front matter, review dates, and Sources on each page, plans with
+# twenty days, working relative links, and prose without dashes or semicolons
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check pages, sources, and links
+        run: node tools/check.mjs
