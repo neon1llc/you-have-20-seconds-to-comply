@@ -2,7 +2,7 @@
 
 You Have 20 Seconds To Comply releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names. The release workflow adds missing tags and never moves one.
 
-## Unreleased
+## v0.1.1 - 2026-11-12
 
 ### Fixed
 - Sources that moved now link their current pages: New York DFS's cybersecurity resource center, the European Accessibility Act, the Security Risk Assessment Tool, Google's email sender guidelines, and the AICPA's SOC suite of services.
