@@ -82,4 +82,4 @@ Attendance is a record, not a result. Better signs: more incident reports (inclu
 - HIPAA training and records: [45 CFR § 164.530(b) and (j)](https://www.ecfr.gov/current/title-45/section-164.530).
 - PCI DSS v4.0.1, requirement 12.6, from the PCI Security Standards Council [Document Library](https://www.pcisecuritystandards.org/document_library/).
 - New York student data training: [8 NYCRR § 121.7](https://regulations.justia.com/states/new-york/title-8/chapter-ii/subchapter-e/part-121/section-121-7/).
-- New York DFS cybersecurity training: [23 NYCRR Part 500](https://www.dfs.ny.gov/industry_guidance/cybersecurity), § 500.14(a)(3).
+- New York DFS cybersecurity training: [23 NYCRR Part 500](https://www.dfs.ny.gov/cybersecurity), § 500.14(a)(3).

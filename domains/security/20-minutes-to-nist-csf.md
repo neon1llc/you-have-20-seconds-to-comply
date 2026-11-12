@@ -125,6 +125,6 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 - Center for Internet Security, [CIS Critical Security Controls v8.1](https://www.cisecurity.org/controls) and [Implementation Group 1](https://www.cisecurity.org/controls/implementation-groups/ig1).
 - NIST, [SP 800-50 Rev. 1, Building a Cybersecurity and Privacy Learning Program](https://csrc.nist.gov/pubs/sp/800/50/r1/final) (September 2024).
 - CISA, [Cyber Essentials](https://www.cisa.gov/resources-tools/resources/cyber-essentials) for small businesses and local governments.
-- New York State Department of Financial Services, [Cybersecurity Regulation, 23 NYCRR Part 500](https://www.dfs.ny.gov/industry_guidance/cybersecurity). Training: § 500.14(a)(3).
+- New York State Department of Financial Services, [Cybersecurity Resource Center, 23 NYCRR Part 500](https://www.dfs.ny.gov/cybersecurity). Training: § 500.14(a)(3).
 - New York General Business Law [§ 899-bb](https://www.nysenate.gov/legislation/laws/GBS/899-BB), reasonable safeguards.
 - FTC, [Cybersecurity for Small Business](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity).

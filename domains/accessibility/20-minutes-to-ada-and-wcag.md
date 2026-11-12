@@ -113,4 +113,4 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 - W3C, [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) and [WCAG 2.1](https://www.w3.org/TR/WCAG21/), and W3C WAI, [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 - WebAIM, [The WebAIM Million](https://webaim.org/projects/million/).
 - FTC, [FTC Approves Final Order Requiring accessiBe to Pay $1 Million](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-approves-final-order-requiring-accessibe-pay-1-million) (April 2025).
-- European Commission, [European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en).
+- European Commission, [European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en).

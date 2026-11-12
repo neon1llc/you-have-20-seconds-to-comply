@@ -109,5 +109,5 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 - [16 CFR Part 316](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-316), the CAN-SPAM Rule, including primary purpose ([§ 316.3](https://www.ecfr.gov/current/title-16/section-316.3)) and opt-out limits ([§ 316.5](https://www.ecfr.gov/current/title-16/section-316.5)).
 - FTC, [CAN-SPAM Act: A Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business).
 - FTC, [Adjustments to Civil Penalty Amounts](https://www.federalregister.gov/documents/2025/01/17/2025-01361/adjustments-to-civil-penalty-amounts), 90 FR 5580 (January 17, 2025), and [Civil Penalty Inflation Adjustments](https://www.federalregister.gov/documents/2026/09/15/2026-18853/civil-penalty-inflation-adjustments), 91 FR 58446 (September 15, 2026).
-- Google, [Email sender guidelines](https://support.google.com/a/answer/81126).
+- Google, [Email sender guidelines](https://support.google.com/mail/answer/81126).
 - Yahoo, [Sender best practices](https://senders.yahooinc.com/best-practices/).

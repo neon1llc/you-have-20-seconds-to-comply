@@ -85,7 +85,7 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 
 ## Sources
 
-- AICPA and CIMA, [SOC 2: SOC for Service Organizations: Trust Services Criteria](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2).
+- AICPA and CIMA, [System and Organization Controls: SOC suite of services](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services).
 - AICPA, [2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy (with revised points of focus, 2022)](https://www.aicpa-cima.com/resources/download/2017-trust-services-criteria-with-revised-points-of-focus-2022). Training and competence: CC1.4 and CC2.2.
 - neon1, [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me), SOC 2 readiness course, controls map, and templates.
 - neon1, [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), plain-language SOC 2 track.

@@ -164,6 +164,6 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 - [42 U.S.C. § 1320d-6](https://www.law.cornell.edu/uscode/text/42/1320d-6), criminal penalties.
 - HHS, [HIPAA Security Rule To Strengthen the Cybersecurity of Electronic Protected Health Information](https://www.federalregister.gov/documents/2025/01/06/2024-30983/hipaa-security-rule-to-strengthen-the-cybersecurity-of-electronic-protected-health-information), proposed rule, 90 FR 898 (January 6, 2025).
 - HHS, [Confidentiality of Substance Use Disorder (SUD) Patient Records](https://www.federalregister.gov/documents/2024/02/16/2024-02544/confidentiality-of-substance-use-disorder-sud-patient-records), final rule, 89 FR 12472 (February 16, 2024).
-- ONC and OCR, [Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment-tool).
-- HHS 405(d) Program, [Health Industry Cybersecurity Practices](https://405d.hhs.gov/) for practical safeguards sized to small, medium, and large organizations.
+- ONC and OCR, [Security Risk Assessment Tool](https://healthit.gov/privacy-security/security-risk-assessment-tool/).
+- HHS, [HHS Cyber Gateway](https://hhscyber.hhs.gov/), the home of the 405(d) Program and Health Industry Cybersecurity Practices (HICP): practical safeguards sized to small, medium, and large organizations.
 - CMS, [Are You a Covered Entity?](https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities).

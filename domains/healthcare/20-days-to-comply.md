@@ -42,7 +42,7 @@ Read [20 minutes to HIPAA](20-minutes-to-hipaa.md) first. Each day below is one 
 ## Sources
 
 - [20 minutes to HIPAA](20-minutes-to-hipaa.md), with full references to 45 CFR Parts 160 and 164.
-- ONC and OCR, [Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment-tool).
+- ONC and OCR, [Security Risk Assessment Tool](https://healthit.gov/privacy-security/security-risk-assessment-tool/).
 - HHS, [Sample Business Associate Agreement Provisions](https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html).
 - HHS, [Breach Notification Rule](https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html).
-- HHS 405(d) Program, [Health Industry Cybersecurity Practices](https://405d.hhs.gov/).
+- HHS, [HHS Cyber Gateway](https://hhscyber.hhs.gov/), the home of the 405(d) Program and Health Industry Cybersecurity Practices (HICP).
