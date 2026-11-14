@@ -1,12 +1,12 @@
 ---
 title: "20 minutes to SOC 2"
-description: "What a SOC 2 report is, who asks for one, what it takes to get one, and what staff need to know, with a pointer to the full SOC It 2 Me course."
+description: "What a SOC 2 report is, who asks for one, what it takes to get one, and what staff need to know, with a pointer to the full SOC 2 Readiness course."
 domain: Security
 rules: "AICPA SOC 2 examinations and the 2017 Trust Services Criteria"
 reviewed: 2026-11-12
 ---
 
-**Read this if** a customer has asked for your SOC 2 report, a sales deal is stuck on a security questionnaire, or you sell software or services that hold other companies' data. For the full hands-on course, with a controls map, evidence checklists, and templates, see [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me).
+**Read this if** a customer has asked for your SOC 2 report, a sales deal is stuck on a security questionnaire, or you sell software or services that hold other companies' data. For the full hands-on course, with a controls map, evidence checklists, and templates, see [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
 
 ## What SOC 2 is
 
@@ -29,7 +29,7 @@ There are two types of report.
 6. **Choose an audit firm** and run a readiness review.
 7. **Get through the observation period** for a Type 2, then the audit.
 
-SOC It 2 Me walks through each step in eight modules, with a 90-day readiness plan.
+SOC 2 Readiness walks through each step in eight modules, with a 90-day readiness plan.
 
 ## Training in SOC 2
 
@@ -87,5 +87,5 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 
 - AICPA and CIMA, [System and Organization Controls: SOC suite of services](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services).
 - AICPA, [2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy (with revised points of focus, 2022)](https://www.aicpa-cima.com/resources/download/2017-trust-services-criteria-with-revised-points-of-focus-2022). Training and competence: CC1.4 and CC2.2.
-- neon1, [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me), SOC 2 readiness course, controls map, and templates.
+- neon1, [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness), SOC 2 readiness course, controls map, and templates.
 - neon1, [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), plain-language SOC 2 track.

@@ -53,7 +53,7 @@ IG1 covers things like:
 
 ## How this connects to other frameworks
 
-- **SOC 2** is an attestation report a CPA firm issues on your controls, often asked for by business customers. A CSF or CIS program covers much of what SOC 2 tests. See [20 minutes to SOC 2](20-minutes-to-soc-2.md) and the full course in [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me).
+- **SOC 2** is an attestation report a CPA firm issues on your controls, often asked for by business customers. A CSF or CIS program covers much of what SOC 2 tests. See [20 minutes to SOC 2](20-minutes-to-soc-2.md) and the full course in [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
 - **ISO/IEC 27001** is an international certifiable standard for an information security management system. NIST publishes mappings between CSF and ISO.
 - **Sector rules** such as HIPAA, the FTC Safeguards Rule, and PCI DSS each have their own walkthrough here. A CSF program makes each of them easier to meet, but doesn't replace their specific requirements.
 - **New York DFS-regulated companies** (banks, insurers, and other financial firms licensed in New York) have their own cybersecurity rule, 23 NYCRR Part 500, which requires annual cybersecurity awareness training that includes social engineering.
@@ -74,7 +74,7 @@ Training is a control in every framework above. NIST's guide to building a learn
 
 People with more access, such as admins, finance staff, and executives, need extra training on the risks aimed at them: admin account protection, payment fraud, and impersonation.
 
-For a ready-made awareness session, see [Phish Out of Water](https://github.com/neon1llc/phish-out-of-water). For the home side of staff security, see [Home Is Where the Smart Is](https://github.com/neon1llc/home-is-where-the-smart-is).
+For a ready-made awareness session, see [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit). For the home side of staff security, see [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook).
 
 ## What the business needs on paper
 

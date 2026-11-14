@@ -72,8 +72,8 @@ Attendance is a record, not a result. Better signs: more incident reports (inclu
 
 ## Related material
 
-- [Phish Out of Water](https://github.com/neon1llc/phish-out-of-water), a ready-made one-hour security awareness session with slides and exercises.
-- [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me), a SOC 2 course with a workshop facilitator guide.
+- [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit), a ready-made one-hour security awareness session with slides and exercises.
+- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness), a SOC 2 course with a workshop facilitator guide.
 - [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), plain-language security training and practice cards.
 
 ## Sources
