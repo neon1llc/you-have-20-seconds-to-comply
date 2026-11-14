@@ -1,11 +1,11 @@
 ---
-title: "20 days to comply: Privacy"
-description: "A day-by-day plan for an ordinary business to know what personal data it holds, protect it reasonably, and be ready for a breach and for privacy requests in 20 working days."
+title: "20-day learning plan: Privacy"
+description: "A 20-day learning plan that walks an ordinary business through the work to know what personal data it holds, protect it reasonably, and be ready for a breach and for privacy requests."
 domain: Privacy
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) first. Each day below is one to two hours of work for the person leading the effort. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
 
 ## The plan
 

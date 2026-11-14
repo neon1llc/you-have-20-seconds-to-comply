@@ -6,7 +6,6 @@ Thanks for helping. People use these guides to make real decisions about their o
 
 - Corrections backed by the official source, with a link.
 - Updates when a rule changes, a deadline moves, or a penalty amount is adjusted.
-- New walkthroughs for rules that fit an existing domain, and new domains that small businesses commonly face.
 - Translations, accessibility fixes, and printable versions.
 
 ## How a domain is laid out

@@ -1,11 +1,11 @@
 ---
-title: "20 days to comply: Life sciences"
-description: "A day-by-day plan for a small GxP team, or an IT provider taking on a GxP client, to get procedures, training records, and computer systems under control in 20 working days."
+title: "20-day learning plan: Life sciences"
+description: "A 20-day learning plan that walks a small GxP team, or an IT provider taking on a GxP client, through the work to get procedures, training records, and computer systems under control."
 domain: Life sciences
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to GxP](20-minutes-to-gxp.md) first. Each day below is one to two hours of work for the person leading the effort. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to GxP](20-minutes-to-gxp.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
 
 ## The plan
 

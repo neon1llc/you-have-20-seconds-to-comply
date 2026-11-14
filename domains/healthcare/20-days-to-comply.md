@@ -1,11 +1,11 @@
 ---
-title: "20 days to comply: Healthcare"
-description: "A day-by-day plan for a small medical practice or a vendor that handles patient information to put the HIPAA basics in place in 20 working days."
+title: "20-day learning plan: Healthcare"
+description: "A 20-day learning plan that walks a small medical practice or a vendor that handles patient information through the work to put the HIPAA basics in place."
 domain: Healthcare
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to HIPAA](20-minutes-to-hipaa.md) first. Each day below is one to two hours of work for the person leading the effort. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to HIPAA](20-minutes-to-hipaa.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
 
 ## The plan
 

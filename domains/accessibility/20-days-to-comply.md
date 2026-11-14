@@ -1,11 +1,11 @@
 ---
-title: "20 days to comply: Accessibility"
-description: "A day-by-day plan for a business or public entity to find and fix the most common accessibility barriers on its website and set up a process that keeps them fixed, in 20 working days."
+title: "20-day learning plan: Accessibility"
+description: "A 20-day learning plan that walks a business or public entity through the work to find and fix the most common accessibility barriers on its website and set up a process that keeps them fixed."
 domain: Accessibility
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the ADA and WCAG](20-minutes-to-ada-and-wcag.md) first. Each day below is one to two hours of work for the person leading the effort. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to the ADA and WCAG](20-minutes-to-ada-and-wcag.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
 
 ## The plan
 

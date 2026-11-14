@@ -1,11 +1,11 @@
 ---
-title: "20 days to comply: Marketing"
-description: "A day-by-day plan for a business that sends email and text messages to get consent, opt-outs, and sending practices in line with CAN-SPAM and the TCPA in 20 working days."
+title: "20-day learning plan: Marketing"
+description: "A 20-day learning plan that walks a business that sends email and text messages through the work to get consent, opt-outs, and sending practices in line with CAN-SPAM and the TCPA."
 domain: Marketing
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the TCPA](20-minutes-to-tcpa.md) first. Each day below is one to two hours of work for the person leading the effort. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the TCPA](20-minutes-to-tcpa.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
 
 ## The plan
 
