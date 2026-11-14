@@ -1,11 +1,11 @@
 ---
-title: "20 days to comply: Security"
-description: "A day-by-day plan for a small business to reach CIS Implementation Group 1 basics and a NIST CSF profile in 20 working days, laying the ground for SOC 2 if customers ask for it."
+title: "20-day learning plan: Security"
+description: "A 20-day learning plan that walks a small business through the work to reach CIS Implementation Group 1 basics and a NIST CSF profile, laying the ground for SOC 2 if customers ask for it."
 domain: Security
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md) and, if customers ask for a report, [20 minutes to SOC 2](20-minutes-to-soc-2.md) first. Each day below is one to two hours of work for the person leading the effort. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md) and, if customers ask for a report, [20 minutes to SOC 2](20-minutes-to-soc-2.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
 
 ## The plan
 
@@ -37,7 +37,7 @@ Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md)
 - Every month: check that updates are installing and backups are running.
 - Every quarter: access reviews and a restore test.
 - Every year: training, policy review, a fresh current profile, vendor reviews, and a tabletop exercise.
-- If customers ask for SOC 2: use this program as the base and follow the 90-day plan in [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me).
+- If customers ask for SOC 2: use this program as the base and follow the 90-day plan in [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
 
 ## Sources
 
@@ -45,4 +45,4 @@ Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md)
 - NIST, [Small Business Cybersecurity Corner](https://www.nist.gov/itl/smallbusinesscyber).
 - Center for Internet Security, [Implementation Group 1](https://www.cisecurity.org/controls/implementation-groups/ig1).
 - CISA, [Cyber Essentials](https://www.cisa.gov/resources-tools/resources/cyber-essentials).
-- neon1, [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me).
+- neon1, [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).

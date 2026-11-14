@@ -1,11 +1,11 @@
 ---
-title: "20 days to comply: Payments"
-description: "A day-by-day plan for a small merchant to shrink its card data footprint, train staff, and file an honest PCI DSS self-assessment in 20 working days."
+title: "20-day learning plan: Payments"
+description: "A 20-day learning plan that walks a small merchant through the work to shrink its card data footprint, train staff, and file an honest PCI DSS self-assessment."
 domain: Payments
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day below is one to two hours of work for the person leading the effort. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
 
 ## The plan
 

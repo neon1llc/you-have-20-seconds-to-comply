@@ -1,6 +1,6 @@
 # Attributions
 
-You Have 20 Seconds To Comply is written in its own words. Each page lists the sources it relies on in a Sources section. This page explains how outside material is used.
+Compliance Basics is written in its own words. Each page lists the sources it relies on in a Sources section. This page explains how outside material is used.
 
 ## Public domain, cited and summarized
 
@@ -25,6 +25,6 @@ State laws and regulations are cited from official state sites where available, 
 
 | Source | License | Used for |
 |---|---|---|
-| [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me) | CC BY-SA 4.0 | Linked from the security domain |
-| [Phish Out of Water](https://github.com/neon1llc/phish-out-of-water) | CC BY-SA 4.0 | Linked from the training kit and the security domain |
+| [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) | CC BY-SA 4.0 | Linked from the security domain |
+| [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit) | CC BY-SA 4.0 | Linked from the training kit and the security domain |
 | [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go) | CC BY-SA 4.0 | Linked from the training kit |

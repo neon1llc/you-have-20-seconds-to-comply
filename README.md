@@ -2,13 +2,16 @@
 
 Plain-language compliance guides and training for small businesses, from [neon1](https://neon1.tech).
 
-- **20 seconds:** this page. Find your domain below.
-- **20 minutes or less:** each walkthrough explains one rule: who it covers, what it asks, what staff need to know, and the penalties, with primary sources.
-- **20 days:** each domain's plan turns the walkthroughs into one task a day.
+This is training, not legal advice or a compliance determination. Whether a business meets a rule is for its lawyer, auditor, or regulator to decide.
+
+**Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
+
+- **Walkthroughs:** each one explains one rule in 20 minutes or less: who it covers, what it asks, what staff need to know, and the penalties, with primary sources.
+- **20-day learning plans:** each domain's plan turns the walkthroughs into one task a day. The 20 days are a learning pace, not a timeline or a promise of being compliant at the end.
 
 ## Domains
 
-| Domain | 20-minute walkthroughs | 20-day plan |
+| Domain | 20-minute walkthroughs | 20-day learning plan |
 |---|---|---|
 | [Healthcare](domains/healthcare/README.md) | [HIPAA](domains/healthcare/20-minutes-to-hipaa.md) | [Plan](domains/healthcare/20-days-to-comply.md) |
 | [Life sciences](domains/life-sciences/README.md) | [GxP: GMP, GLP, GCP, GDP, and Part 11](domains/life-sciences/20-minutes-to-gxp.md) | [Plan](domains/life-sciences/20-days-to-comply.md) |
@@ -41,14 +44,14 @@ These guides explain rules in plain words and point to the official text. They a
 
 ## Related neon1 projects
 
-- [SOC It 2 Me](https://github.com/neon1llc/soc-it-2-me): hands-on SOC 2 readiness course.
-- [Phish Out of Water](https://github.com/neon1llc/phish-out-of-water): a one-hour security awareness session kit.
-- [Home Is Where the Smart Is](https://github.com/neon1llc/home-is-where-the-smart-is): a household tech handbook.
+- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness): hands-on SOC 2 readiness course.
+- [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit): a one-hour security awareness session kit.
+- [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook): a household tech handbook.
 - [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go): plain-language security training.
 
-## Adding a domain or rule
+## How a domain is laid out
 
-Each domain is a folder under `domains/` with a README, one or more `20-minutes-to-<rule>.md` walkthroughs, and a `20-days-to-comply.md` plan. See [CONTRIBUTING.md](CONTRIBUTING.md) for the page layout and writing rules, and run the check before opening a pull request:
+Each domain is a folder under `domains/` with a README, one or more `20-minutes-to-<rule>.md` walkthroughs, and a `20-days-to-comply.md` learning plan. See [CONTRIBUTING.md](CONTRIBUTING.md) for the page layout and writing rules, and run the check before opening a pull request:
 
 ```
 node tools/check.mjs
@@ -58,10 +61,10 @@ node tools/check.mjs
 
 | What | License | What it means |
 |---|---|---|
-| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on You Have 20 Seconds To Comply by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
+| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on Compliance Basics by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
 | Code (`tools/`, `.github/`) | [MIT](LICENSE-CODE) | Use it for anything, keeping the copyright notice. |
-| The You Have 20 Seconds To Comply and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
+| The Compliance Basics and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
 
-You Have 20 Seconds To Comply is © 2026 neon1 LLC. Keep the [NOTICE](NOTICE) file in copies and adaptations. Laws and government publications cited here are public domain. Standards such as PCI DSS and WCAG belong to their publishers and are cited, not copied. See [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
+Compliance Basics is © 2026 neon1 LLC. Keep the [NOTICE](NOTICE) file in copies and adaptations. Laws and government publications cited here are public domain. Standards such as PCI DSS and WCAG belong to their publishers and are cited, not copied. See [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
 
 Found something wrong or out of date? See [SECURITY.md](SECURITY.md).
