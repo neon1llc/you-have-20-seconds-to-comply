@@ -1,4 +1,4 @@
-# You Have 20 Seconds To Comply
+# Compliance basics
 
 Plain-language compliance guides and training for small businesses, from [neon1](https://neon1.tech).
 
